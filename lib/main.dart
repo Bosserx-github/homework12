@@ -75,9 +75,7 @@ class _HomePageState extends State<HomePage> {
                       padding: const EdgeInsets.all(5.0),
                       child: Text('LOGIN',style: TextStyle(fontSize: 30,color: Colors.black,fontWeight: FontWeight.bold)),
                     ),
-                    /*if(_num>5)
-                          Text('sss'),*/
-
+                 
                     Padding(
                       padding: const EdgeInsets.all(20.0),
                       child: Row(
